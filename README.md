@@ -3,9 +3,10 @@
 A lightweight client-side HUD mod that displays a small compass in the top-left corner of your screen.
 
 Follow me in github- https://github.com/PrithwishDutta
+
 Download Mod here for minecraft- 
-CurseForge- https://www.curseforge.com/minecraft/mc-mods/compassfindings
----
+
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/compassfindings)
 
 ## Features
 
