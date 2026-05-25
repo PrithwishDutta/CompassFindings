@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: compassmod
-Implementation-Version: 1.0.0
-Implementation-Vendor: compassmod
-Built-By: CompassMod Builder
